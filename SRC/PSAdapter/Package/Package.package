@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="2b7b29b3-9d9e-40e3-ad4c-40c47325fcb5" solutionId="2b7b29b3-9d9e-40e3-ad4c-40c47325fcb5" resetWebServer="true" sharePointProductVersion="15.0" name="PSAdapter" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <projectOutputAssembly location="PSActivity.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\PSActivity\PSActivity.csproj" />
+  </assemblies>
+  <projectItems>
+    <projectItemReference itemId="c9e60a78-c690-46b2-931a-7c86691d236c" />
+  </projectItems>
+</package>
